@@ -1,5 +1,4 @@
 # React + TypeScript + Vite
-
 ## [Here](https://main--drum-machine-fcc-marg-code.netlify.app/)'s the live version costumized for my nephew Kiaan. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
