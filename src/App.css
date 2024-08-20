@@ -36,7 +36,7 @@ h1 {
   width: 100px;
   height: 100px;
   border: none;
-  background-color: rgb(251, 122, 241);
+  background-color: rgb(71, 252, 122);
   color: white;
   font-size: 20px;
   border-radius: 12px;
@@ -46,7 +46,7 @@ h1 {
 }
 
 .drum-pad:hover {
-  background-color: #da2494;
+  background-color: #249ada;
   transform: translateY(-2px);
 }
 
@@ -59,7 +59,7 @@ h1 {
   margin-top: 30px;
   font-size: 18px;
   color: #502c47;
-  background-color: #e9d6ef;
+  background-color: #d6efeb;
   padding: 10px 20px;
   border-radius: 8px;
 }

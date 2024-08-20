@@ -61,7 +61,7 @@ function App() {
 };
   return (
     <div className="cointainer" id="drum-machine" onKeyDown={playAudio}>
-      <h1>FCC Drum Machine</h1>
+      <h1>Kiaan's Drum Machine</h1>
       <div className="whole-drum">
         {audioClips.map((clip)=> (
         <Drum audioClip={clip} key={clip.keyTrigger}/>
